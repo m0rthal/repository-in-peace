@@ -1,0 +1,5 @@
+/home/morthal/Documents/git/repository-in-peace/Prueba/Prueba/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/morthal/Documents/git/repository-in-peace/Prueba/Prueba/bin/Debug/Prueba.exe.mdb
+/home/morthal/Documents/git/repository-in-peace/Prueba/Prueba/bin/Debug/Prueba.exe
+/home/morthal/Documents/git/repository-in-peace/Prueba/Prueba/obj/x86/Debug/Prueba.exe
+/home/morthal/Documents/git/repository-in-peace/Prueba/Prueba/obj/x86/Debug/Prueba.exe.mdb
