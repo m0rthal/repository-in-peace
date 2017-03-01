@@ -25,6 +25,7 @@ namespace Prueba
 			Console.WriteLine ("\n");
 			Console.Write ("El resultado final es: ");
 			Console.WriteLine (usuario.getResultado ());
+			Console.WriteLine ("Esto es una linea nueva");
 		}
 	}
 }
