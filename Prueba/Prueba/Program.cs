@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Prueba;
 
 namespace Prueba
@@ -26,6 +26,8 @@ namespace Prueba
 			Console.Write ("El resultado final es: ");
 			Console.WriteLine (usuario.getResultado ());
 			Console.WriteLine ("Esto es una linea nueva");
+			Console.WriteLine ("Primera vez que uso C#");
+			Console.WriteLine ("je je");
             Console.ReadLine();
 		}
 	}
