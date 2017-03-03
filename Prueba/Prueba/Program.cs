@@ -27,7 +27,6 @@ namespace Prueba
 			Console.WriteLine (usuario.getResultado ());
 			Console.WriteLine ("Esto es una linea nueva");
 			Console.WriteLine ("Primera vez que uso C#");
-			Console.WriteLine ("je je");
             Console.ReadLine();
 		}
 	}
